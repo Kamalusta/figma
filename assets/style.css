@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap');
 body{
     margin: 0px;
 }
@@ -9,6 +10,7 @@ main{
     margin: 56px 36px 0px ;
 }
 h1{
+    font-family: 'Roboto Slab', serif;
     font-size: 26px;
     margin-top: 0px;
 }
